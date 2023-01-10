@@ -1,0 +1,209 @@
+{
+   "TabChorus": {
+      "message": "Хор"
+   },
+   "TabConvolver": {
+      "message": "Конвольвер"
+   },
+   "TabEqualizer": {
+      "message": "Эквалайзер"
+   },
+   "TabLimiter": {
+      "message": "Ограничитель"
+   },
+   "TabPitch": {
+      "message": "Питч"
+   },
+   "Volume": {
+      "message": "Громкость"
+   },
+   "advancedLabel": {
+      "message": "Расширенные"
+   },
+   "attackLabel": {
+      "message": "атака"
+   },
+   "buttonAdvanced": {
+      "message": "Расширенные"
+   },
+   "buttonBypass": {
+      "message": "Байпас"
+   },
+   "buttonDelete": {
+      "message": "Удалить"
+   },
+   "buttonGotoTab": {
+      "message": "Перейти на вкладку"
+   },
+   "buttonLoad": {
+      "message": "Загрузить"
+   },
+   "buttonOff": {
+      "message": "Off"
+   },
+   "buttonReset": {
+      "message": "Сброс"
+   },
+   "buttonSave": {
+      "message": "Сохранить"
+   },
+   "buttonTextPowerIcon": {
+      "message": "Захват текущей вкладки"
+   },
+   "chorusDelay": {
+      "message": "Задержка"
+   },
+   "chorusDepth": {
+      "message": "Глубина"
+   },
+   "chorusFeedback": {
+      "message": "Feedback"
+   },
+   "chorusRate": {
+      "message": "Темп"
+   },
+   "convolverDry": {
+      "message": "Сухой"
+   },
+   "convolverHighcut": {
+      "message": "HighCut"
+   },
+   "convolverLowcut": {
+      "message": "Lowcut"
+   },
+   "convolverWet": {
+      "message": "Мокрый"
+   },
+   "copyright": {
+      "message": "Ecualizador — Music Booster"
+   },
+   "description": {
+      "message": "Улучшите звук с помощью 10 полос эквалайзера, пресетов эквалайзера для различных музыкальных жанров и усилителя басов."
+   },
+   "dynamicsLabel": {
+      "message": "ДИНАМИКА"
+   },
+   "fullScreenMode": {
+      "message": "Полноэкранный режим"
+   },
+   "info": {
+      "message": "Инфо"
+   },
+   "instanceOpenAlready": {
+      "message": "Всплывающее окно уже открыто в другом окне!"
+   },
+   "kneeLabel": {
+      "message": "колено"
+   },
+   "labelPitch": {
+      "message": "Питч"
+   },
+   "loadPresetOnStartup": {
+      "message": "Загрузка предустановки при запуске"
+   },
+   "name": {
+      "message": "Экуализадор — Music Booster"
+   },
+   "off": {
+      "message": "Off"
+   },
+   "offMessage": {
+      "message": "Звуковой эквалайзер в настоящее время отключен!"
+   },
+   "offTitle": {
+      "message": "Turn on the power!"
+   },
+   "on": {
+      "message": "On"
+   },
+   "openOnClick": {
+      "message": "Открыть при клике"
+   },
+   "powerButtonOn": {
+      "message": "On"
+   },
+   "powerOff": {
+      "message": "Off"
+   },
+   "presetAcoustic": {
+      "message": "Акуситика"
+   },
+   "presetBassBooster": {
+      "message": "Усиление басов"
+   },
+   "presetBassReducer": {
+      "message": "Bass Reducer"
+   },
+   "presetClassical": {
+      "message": "Classical"
+   },
+   "presetDance": {
+      "message": "Танцы"
+   },
+   "presetDeep": {
+      "message": "Deep"
+   },
+   "presetElectronic": {
+      "message": "Electronic"
+   },
+   "presetHipHop": {
+      "message": "Хип-Хоп"
+   },
+   "presetJazz": {
+      "message": "Джаз"
+   },
+   "presetLatin": {
+      "message": "Latin"
+   },
+   "presetLoudness": {
+      "message": "Loudness"
+   },
+   "presetLounge": {
+      "message": "Lounge"
+   },
+   "presetPiano": {
+      "message": "Пианино"
+   },
+   "presetPop": {
+      "message": "Поп"
+   },
+   "presetRnb": {
+      "message": "Рнб"
+   },
+   "presetRock": {
+      "message": "Рок"
+   },
+   "presetSmallSpeakers": {
+      "message": "Small Speakers"
+   },
+   "presetSpokenWord": {
+      "message": "Spoken Word"
+   },
+   "presetTrebleBooster": {
+      "message": "Treble Booster"
+   },
+   "presetTrebleReducer": {
+      "message": "Treble Reducer"
+   },
+   "presetVocalBooster": {
+      "message": "Vocal Booster"
+   },
+   "ratioLabel": {
+      "message": "Ratio"
+   },
+   "releaseLabel": {
+      "message": "release"
+   },
+   "saveVolumeWithPreset": {
+      "message": "Сохранить объем с предустановкой"
+   },
+   "short_name": {
+      "message": "Экуализадор-music"
+   },
+   "thresholdLabel": {
+      "message": "Порог"
+   },
+   "title": {
+      "message": "Эквалайзер"
+   }
+}
