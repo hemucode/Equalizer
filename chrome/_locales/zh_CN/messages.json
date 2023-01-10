@@ -1,0 +1,209 @@
+{
+   "TabChorus": {
+      "message": "Chorus"
+   },
+   "TabConvolver": {
+      "message": "Convolver"
+   },
+   "TabEqualizer": {
+      "message": "Equalizer"
+   },
+   "TabLimiter": {
+      "message": "Limiter"
+   },
+   "TabPitch": {
+      "message": "Pitch"
+   },
+   "Volume": {
+      "message": "Volume"
+   },
+   "advancedLabel": {
+      "message": "Advanced"
+   },
+   "attackLabel": {
+      "message": "attack"
+   },
+   "buttonAdvanced": {
+      "message": "Advanced"
+   },
+   "buttonBypass": {
+      "message": "Bypass"
+   },
+   "buttonDelete": {
+      "message": "Delete"
+   },
+   "buttonGotoTab": {
+      "message": "Go to Tab"
+   },
+   "buttonLoad": {
+      "message": "Load"
+   },
+   "buttonOff": {
+      "message": "Off"
+   },
+   "buttonReset": {
+      "message": "Reset"
+   },
+   "buttonSave": {
+      "message": "Save"
+   },
+   "buttonTextPowerIcon": {
+      "message": "Capture the current tab"
+   },
+   "chorusDelay": {
+      "message": "Delay"
+   },
+   "chorusDepth": {
+      "message": "Depth"
+   },
+   "chorusFeedback": {
+      "message": "Feedback"
+   },
+   "chorusRate": {
+      "message": "Rate"
+   },
+   "convolverDry": {
+      "message": "Dry"
+   },
+   "convolverHighcut": {
+      "message": "HighCut"
+   },
+   "convolverLowcut": {
+      "message": "Lowcut"
+   },
+   "convolverWet": {
+      "message": "Wet"
+   },
+   "copyright": {
+      "message": "Ecualizador — Music Booster"
+   },
+   "description": {
+      "message": "适用于Chrome的均衡器。 通过10个乐队自定义声音，均衡器预设与所有音乐流派"
+   },
+   "dynamicsLabel": {
+      "message": "DYNAMICS"
+   },
+   "fullScreenMode": {
+      "message": "Full Screen Mode"
+   },
+   "info": {
+      "message": "info"
+   },
+   "instanceOpenAlready": {
+      "message": "Popup already open in a different window!"
+   },
+   "kneeLabel": {
+      "message": "knee"
+   },
+   "labelPitch": {
+      "message": "Pitch"
+   },
+   "loadPresetOnStartup": {
+      "message": "Load Preset On Startup"
+   },
+   "name": {
+      "message": "Ecualizador — Music Booster"
+   },
+   "off": {
+      "message": "Off"
+   },
+   "offMessage": {
+      "message": "Audio Equalizer is currently switched off!"
+   },
+   "offTitle": {
+      "message": "Turn on the power!"
+   },
+   "on": {
+      "message": "On"
+   },
+   "openOnClick": {
+      "message": "Open on Click"
+   },
+   "powerButtonOn": {
+      "message": "On"
+   },
+   "powerOff": {
+      "message": "Off"
+   },
+   "presetAcoustic": {
+      "message": "Acoustic"
+   },
+   "presetBassBooster": {
+      "message": "Bass Booster"
+   },
+   "presetBassReducer": {
+      "message": "Bass Reducer"
+   },
+   "presetClassical": {
+      "message": "Classical"
+   },
+   "presetDance": {
+      "message": "Dance"
+   },
+   "presetDeep": {
+      "message": "Deep"
+   },
+   "presetElectronic": {
+      "message": "Electronic"
+   },
+   "presetHipHop": {
+      "message": "HipHop"
+   },
+   "presetJazz": {
+      "message": "Jazz"
+   },
+   "presetLatin": {
+      "message": "Latin"
+   },
+   "presetLoudness": {
+      "message": "Loudness"
+   },
+   "presetLounge": {
+      "message": "Lounge"
+   },
+   "presetPiano": {
+      "message": "Piano"
+   },
+   "presetPop": {
+      "message": "Pop"
+   },
+   "presetRnb": {
+      "message": "Rnb"
+   },
+   "presetRock": {
+      "message": "Rock"
+   },
+   "presetSmallSpeakers": {
+      "message": "Small Speakers"
+   },
+   "presetSpokenWord": {
+      "message": "Spoken Word"
+   },
+   "presetTrebleBooster": {
+      "message": "Treble Booster"
+   },
+   "presetTrebleReducer": {
+      "message": "Treble Reducer"
+   },
+   "presetVocalBooster": {
+      "message": "Vocal Booster"
+   },
+   "ratioLabel": {
+      "message": "ratio"
+   },
+   "releaseLabel": {
+      "message": "release"
+   },
+   "saveVolumeWithPreset": {
+      "message": "Save Volume With Preset"
+   },
+   "short_name": {
+      "message": "audio-equalizer"
+   },
+   "thresholdLabel": {
+      "message": "Threshold"
+   },
+   "title": {
+      "message": "Equalizer"
+   }
+}
