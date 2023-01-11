@@ -1,0 +1,94 @@
+    * {
+      font-family: sans-serif,cursive,monospace;
+    }
+
+    html, body {
+      margin: 0;
+      padding: 0;
+    }
+
+    h1 {
+      font-size: 32px;
+      font-weight: bold;
+      font-family: sans-serif,cursive,monospace;
+
+
+    }
+    .hdfjkdj{
+        width: 80%; margin: 0 auto;margin-bottom: 100px;
+    }
+    p {
+      font-size: 16px;
+      line-height: 1.5em;
+      font-family: Nunito;
+
+    }
+
+    .actions {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: nowrap;
+      align-content: center;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .actions a {
+
+      color: #3c3f41;
+      text-decoration: none;
+    }
+
+    .actions a:hover {
+      color: orangered;
+    }
+
+    header {
+      height: 55px;
+      width: 100%;
+      border: 10px solid transparent;
+      background: #2b4061;
+      display: flex;
+      flex-direction: row;
+      flex-wrap: nowrap;
+      align-content: center;
+      align-items: center;
+      font-family: sans-serif,cursive,monospace;
+
+    }
+    .mytube{
+      background: #6231a2;
+      margin-top: 100px;
+
+    }
+    .nonstop{
+      background: #a23146;
+      margin-top: 100px;
+    }
+
+    header:hover{
+      background: #507ec5;
+    }
+    header img {
+      width: 32px;
+      height: 32px;
+    }
+
+    header a:hover {
+      color: #1a97fb;
+    }
+
+    header h3 {
+    color: white;
+    margin-left: 10px;
+    font-size: 30px;
+    font-family: sans-serif,cursive,monospace;
+    }
+
+    .content {
+      padding: 10px;
+    }
+
+    a {
+      text-decoration: none;
+    }

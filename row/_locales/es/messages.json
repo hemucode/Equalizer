@@ -1,0 +1,209 @@
+{
+   "TabChorus": {
+      "message": "Coro"
+   },
+   "TabConvolver": {
+      "message": "Convolver"
+   },
+   "TabEqualizer": {
+      "message": "Igualada"
+   },
+   "TabLimiter": {
+      "message": "Limitador"
+   },
+   "TabPitch": {
+      "message": "Tono"
+   },
+   "Volume": {
+      "message": "Volumen"
+   },
+   "advancedLabel": {
+      "message": "Avanzado"
+   },
+   "attackLabel": {
+      "message": "ataque"
+   },
+   "buttonAdvanced": {
+      "message": "Avanzado"
+   },
+   "buttonBypass": {
+      "message": "Derivación"
+   },
+   "buttonDelete": {
+      "message": "Borrar"
+   },
+   "buttonGotoTab": {
+      "message": "Ir a la pestaña"
+   },
+   "buttonLoad": {
+      "message": "Carga"
+   },
+   "buttonOff": {
+      "message": "Off"
+   },
+   "buttonReset": {
+      "message": "Reiniciar"
+   },
+   "buttonSave": {
+      "message": "Salvar"
+   },
+   "buttonTextPowerIcon": {
+      "message": "Captura la pestaña actual"
+   },
+   "chorusDelay": {
+      "message": "Retrasar"
+   },
+   "chorusDepth": {
+      "message": "Profundidad"
+   },
+   "chorusFeedback": {
+      "message": "Feedback"
+   },
+   "chorusRate": {
+      "message": "Tarifa"
+   },
+   "convolverDry": {
+      "message": "Seco"
+   },
+   "convolverHighcut": {
+      "message": "HighCut"
+   },
+   "convolverLowcut": {
+      "message": "LowCut"
+   },
+   "convolverWet": {
+      "message": "Mojado"
+   },
+   "copyright": {
+      "message": "Equalizer — Music Booster"
+   },
+   "description": {
+      "message": "Mejore su sonido con 10 bandas de ecualización, ajustes preestablecidos de ecualizador para una variedad de géneros musicales y un refuerzo de graves."
+   },
+   "dynamicsLabel": {
+      "message": "DINÁMICA"
+   },
+   "fullScreenMode": {
+      "message": "Modo de pantalla completa"
+   },
+   "info": {
+      "message": "info"
+   },
+   "instanceOpenAlready": {
+      "message": "Popup ya se abre en una ventana diferente!"
+   },
+   "kneeLabel": {
+      "message": "rodilla"
+   },
+   "labelPitch": {
+      "message": "Tono"
+   },
+   "loadPresetOnStartup": {
+      "message": "Cargar preset en el inicio"
+   },
+   "name": {
+      "message": "Ecualizador — Music Booster"
+   },
+   "off": {
+      "message": "Off"
+   },
+   "offMessage": {
+      "message": "¡El ecualizador de audio está apagado!"
+   },
+   "offTitle": {
+      "message": "¡Conectar la alimentación!"
+   },
+   "on": {
+      "message": "En"
+   },
+   "openOnClick": {
+      "message": "Abrir en Click"
+   },
+   "powerButtonOn": {
+      "message": "En"
+   },
+   "powerOff": {
+      "message": "Off"
+   },
+   "presetAcoustic": {
+      "message": "Acoustic"
+   },
+   "presetBassBooster": {
+      "message": "Bass Booster"
+   },
+   "presetBassReducer": {
+      "message": "Bass Reducer"
+   },
+   "presetClassical": {
+      "message": "Classical"
+   },
+   "presetDance": {
+      "message": "Dance"
+   },
+   "presetDeep": {
+      "message": "Deep"
+   },
+   "presetElectronic": {
+      "message": "Electronic"
+   },
+   "presetHipHop": {
+      "message": "Hip-Hop"
+   },
+   "presetJazz": {
+      "message": "Jazz"
+   },
+   "presetLatin": {
+      "message": "Latin"
+   },
+   "presetLoudness": {
+      "message": "Loudness"
+   },
+   "presetLounge": {
+      "message": "Lounge"
+   },
+   "presetPiano": {
+      "message": "Piano"
+   },
+   "presetPop": {
+      "message": "Pop"
+   },
+   "presetRnb": {
+      "message": "Rnb"
+   },
+   "presetRock": {
+      "message": "Rock"
+   },
+   "presetSmallSpeakers": {
+      "message": "Small Speakers"
+   },
+   "presetSpokenWord": {
+      "message": "Spoken Word"
+   },
+   "presetTrebleBooster": {
+      "message": "Treble Booster"
+   },
+   "presetTrebleReducer": {
+      "message": "Treble Reducer"
+   },
+   "presetVocalBooster": {
+      "message": "Vocal Booster"
+   },
+   "ratioLabel": {
+      "message": "ratio"
+   },
+   "releaseLabel": {
+      "message": "lanzamiento"
+   },
+   "saveVolumeWithPreset": {
+      "message": "Guardar volumen con preajuste"
+   },
+   "short_name": {
+      "message": "audio-equalizer"
+   },
+   "thresholdLabel": {
+      "message": "Límite"
+   },
+   "title": {
+      "message": "Igualada"
+   }
+}
